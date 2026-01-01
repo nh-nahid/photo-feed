@@ -10,7 +10,7 @@ const Navbar = () => {
 
                 <div className="flex gap-4 items-center">
 
-                    <div className="relative">
+                    {/* <div className="relative">
                         <button className="flex items-center gap-2">
                             <img className="max-w-8" src="./assets/images/bd.png" alt="bangla" />
                             Bangla
@@ -26,7 +26,7 @@ const Navbar = () => {
                                 English
                             </li>
                         </div>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </nav>
